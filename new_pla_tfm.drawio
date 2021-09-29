@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T15:57:34.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="nkWJ-nMSWyBb1aJ5n0OP" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T16:07:07.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="kLGZV1cX0efnv8y2AxyM" version="15.3.8" type="github">
   <diagram id="l6gI7J-SswiwTTYuJDQX" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,14 +49,39 @@
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" parent="1" vertex="1">
           <mxGeometry x="450" y="80" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.78;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-11" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="105" />
+              <mxPoint x="995" y="301" />
+              <mxPoint x="1160" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-11" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="71" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="301" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="995" y="194" />
+              <mxPoint x="995" y="301" />
+              <mxPoint x="1160" y="301" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="160" width="60" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-18" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-18" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="248" width="60" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-19" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="430" width="60" height="68" as="geometry" />
@@ -120,6 +145,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-25" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="530" width="60" height="68" as="geometry" />
         </mxCell>
@@ -174,6 +202,15 @@
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-34" value="RTPL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="840" y="554" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Pjj-v3FLkYyC9tyIgLH-35" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="995" y="654" />
+              <mxPoint x="995" y="301" />
+              <mxPoint x="1160" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7Pjj-v3FLkYyC9tyIgLH-35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="1" vertex="1">
           <mxGeometry x="770" y="620" width="60" height="68" as="geometry" />
         </mxCell>
@@ -212,13 +249,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Pjj-v3FLkYyC9tyIgLH-45" value="9- 11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7Pjj-v3FLkYyC9tyIgLH-39" vertex="1" connectable="0">
+        <mxCell id="7Pjj-v3FLkYyC9tyIgLH-45" value="9-10 / 12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7Pjj-v3FLkYyC9tyIgLH-39" vertex="1" connectable="0">
           <mxGeometry x="-0.8333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OMJnDb7TfzcMhjV8AmNS-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px&quot;&gt;Workflow&amp;nbsp; transformation/Integration pipeline&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#4da1f5;" parent="1" vertex="1">
           <mxGeometry x="85" y="25" width="955" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q0kcZFEA-f1TPdslaAUv-1" target="Q0kcZFEA-f1TPdslaAUv-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q0kcZFEA-f1TPdslaAUv-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
           <mxGeometry x="770" y="344" width="60" height="68" as="geometry" />
@@ -269,7 +309,10 @@
           <mxGeometry x="110" y="454" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0kcZFEA-f1TPdslaAUv-20" value="Existing AQUA/LRP Plat services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="508" width="190" height="20" as="geometry" />
+          <mxGeometry x="110" y="508" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0kcZFEA-f1TPdslaAUv-22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="236" width="98.8" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
